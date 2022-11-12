@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme : mmistakes/minimal-mistakes
-futrue: true
+
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
